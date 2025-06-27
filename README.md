@@ -4,6 +4,8 @@ Protea is a custom development board designed in KiCad that bridges the gap betw
 
 The protea’s incredible diversity of forms - which inspired Carl Linnaeus to name it after the shape-shifting Proteus - mirrors this board’s versatility in connecting vintage computing with modern internet capabilities.
 
+Documentation: [rh1.tech](https://rh1.tech/projects/protea)
+
 ## Hardware Specifications
 
 ### Primary Controller:
